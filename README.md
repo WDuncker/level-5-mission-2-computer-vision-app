@@ -110,7 +110,7 @@ To get started you will need to have Visual Studio Code installed on your device
   npm install -g sass
   ```
 
--Font Awesome
+- Font Awesome
 
 ```sh
    npm install --save @fortawesome/fontawesome-svg-core
@@ -123,9 +123,9 @@ To get started you will need to have Visual Studio Code installed on your device
 
 1. Clone the repo
 
-```sh
-git clone https://github.com/WDuncker/Turners-bot.git
-```
+   ```sh
+   git clone https://github.com/WDuncker/Turners-bot.git
+   ```
 
 2. Install NPM packages
    ```sh
