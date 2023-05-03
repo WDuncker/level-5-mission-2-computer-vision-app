@@ -36,7 +36,6 @@
 <h3 align="center">Mission 1 - My First Chatbot</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/WDuncker/Turners-bot"><strong>Explore the docs »</strong></a>
     <br />
