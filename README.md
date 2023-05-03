@@ -173,7 +173,7 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 
 ## Acknowledgments
 
-- [] Mission Ready HQ
+- Mission Ready HQ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,7 +189,7 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/WDuncker/Turners-bot/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_WDuncker/Turners-bot/blob/master/LICENSE.txt
+[license-url]: https://github.com/github_WDuncker/Turners-bot/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/wilhelmus-duncker-66b9b1272/
 [product-screenshot]: images/screenshot.png
