@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Pathway+Extreme:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Pathway+Extreme:wght@400;700&display=swap");
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 10vh;
+  background-color: #0076be;
+}
+.header__left--logo {
+  background-color: white;
+  margin-left: 10%;
+  width: 12vw;
+  text-align: center;
+  border-radius: 5px;
+}
+.header__right {
+  display: flex;
+  justify-content: space-between;
+  width: 25vw;
+  margin: 1%;
+  color: white;
+}
+.header__right--login {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 33%;
+}
+.header__right--phone {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 33%;
+}
+.header__right--findus {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 33%;
+}
+
+.body {
+  background-color: #9a9b9c;
+  padding: 1%;
+  font-family: "Pathway Extreme", sans-serif;
+}
+.body__upper h1 {
+  margin: 0;
+  text-align: center;
+  padding-top: 2%;
+}
+.body__tiles {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 8vh;
+}
+.body__tiles p {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-decoration-line: underline;
+  color: white;
+}
+.body__tiles img {
+  border-radius: 5px;
+}
+.body__tiles--hatch {
+  background-color: #0076be;
+  padding: 1.5%;
+  border-radius: 5px;
+}
+.body__tiles--sedan {
+  background-color: #0076be;
+  padding: 1.5%;
+  border-radius: 5px;
+}
+.body__tiles--suv {
+  background-color: #0076be;
+  padding: 1.5%;
+  border-radius: 5px;
+}
+
+.footer {
+  font-family: "Pathway Extreme", sans-serif;
+  color: white;
+}
+.footer__upper {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #0076be;
+}
+.footer__lower {
+  background-color: #363636;
+  padding: 0.5% 1%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer__lower--left {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.footer__lower--right {
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 5%;
+}
+.footer__lower--right div {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 20%;
+}
+
+/*# sourceMappingURL=Styles.css.map */

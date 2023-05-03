@@ -1,0 +1,41 @@
+@import "colors";
+@import "fonts";
+
+.footer {
+  font-family: $pathway-extreme;
+  color: white;
+
+  &__upper {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: $turners-blue;
+  }
+
+  &__lower {
+    background-color: $dark-grey;
+    padding: 0.5% 1%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &--left {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+    }
+
+    &--right {
+      width: 50%;
+      display: flex;
+      justify-content: space-evenly;
+      margin-right: 5%;
+    }
+
+    &--right div {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      width: 20%;
+    }
+  }
+}

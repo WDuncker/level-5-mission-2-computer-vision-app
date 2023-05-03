@@ -1,0 +1,46 @@
+@import "colors";
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 10vh;
+  background-color: $turners-blue;
+
+  &__left--logo {
+    background-color: white;
+    margin-left: 10%;
+    width: 12vw;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  &__right {
+    display: flex;
+    justify-content: space-between;
+    width: 25vw;
+    margin: 1%;
+    color: white;
+
+    &--login {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      width: 33%;
+    }
+
+    &--phone {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      width: 33%;
+    }
+
+    &--findus {
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      width: 33%;
+    }
+  }
+}
