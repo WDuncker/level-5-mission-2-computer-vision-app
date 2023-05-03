@@ -106,16 +106,28 @@ To get started you will need to have Visual Studio Code installed on your device
   ```
 
 - Sass
+
   ```sh
   npm install -g sass
   ```
 
+-Font Awesome
+
+```sh
+   npm install --save @fortawesome/fontawesome-svg-core
+   npm install --save @fortawesome/free-solid-svg-icons
+   npm install --save @fortawesome/free-regular-svg-icons
+   npm install --save @fortawesome/free-brands-svg-icons
+```
+
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/WDuncker/Turners-bot.git
-   ```
+
+```sh
+git clone https://github.com/WDuncker/Turners-bot.git
+```
+
 2. Install NPM packages
    ```sh
    npm install
@@ -180,16 +192,16 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/WDuncker/Turners-bot
 [contributors-url]: https://github.com/WDuncker/Turners-bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/WDuncker/Turners-bot
 [forks-url]: https://github.com/WDuncker/Turners-bot/network
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/WDuncker/Turners-bot
 [stars-url]: https://github.com/WDuncker/Turners-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/WDuncker/Turners-bot
 [issues-url]: https://github.com/WDuncker/Turners-bot/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_WDuncker/Turners-bot/blob/main/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/WDuncker/Turners-bot
+[license-url]: https://github.com/WDuncker/Turners-bot/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/wilhelmus-duncker-66b9b1272/
 [product-screenshot]: images/screenshot.png
@@ -213,3 +225,7 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 [Sass-url]: https://sass-lang.com/
 [dialogflow.com]: https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
 [dialogflow-url]: https://dialogflow.cloud.google.com/
+
+```
+
+```
