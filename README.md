@@ -112,12 +112,12 @@ To get started you will need to have Visual Studio Code installed on your device
 
 - Font Awesome
 
-```sh
-   npm install --save @fortawesome/fontawesome-svg-core
-   npm install --save @fortawesome/free-solid-svg-icons
-   npm install --save @fortawesome/free-regular-svg-icons
-   npm install --save @fortawesome/free-brands-svg-icons
-```
+  ```sh
+  npm install --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/free-regular-svg-icons
+  npm install --save @fortawesome/free-brands-svg-icons
+  ```
 
 ### Installation
 
