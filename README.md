@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Mission 1 - My First Chatbot</h3>
+<h3 align="center">Mission 2 - Working with AI</h3>
 
   <p align="center">
     <br />
