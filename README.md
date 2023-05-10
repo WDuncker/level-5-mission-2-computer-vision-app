@@ -86,7 +86,7 @@ The aim of this mission was to become familiar with integrating an ai model into
 
 - [![React][React.js]][React-url]
 - [![SASS][Sass.com]][Sass-url]
-- [![azure][azure.com][azure-url]
+- [![azure][azure.com]][azure-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
