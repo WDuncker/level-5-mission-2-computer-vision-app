@@ -5,47 +5,42 @@
   background-color: $turners-grey;
   padding: 1%;
   font-family: $pathway-extreme;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
-  &__upper h1 {
-    margin: 0;
-    text-align: center;
-    padding-top: 2%;
+  &__title {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &--subhead {
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
   }
 
-  &__tiles {
+  &__form--submit {
+    margin-left: 3vw;
+    color: white;
+    background-color: $turners-blue;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
-    margin-top: 8vh;
+  }
 
-    p {
-      text-align: center;
-      font-size: 1.5rem;
-      font-weight: 600;
-      text-decoration-line: underline;
-      color: white;
-    }
+  &__result {
+    color: white;
+    text-align: center;
 
-    img {
-      border-radius: 5px;
-    }
-
-    &--hatch {
-      background-color: $turners-blue;
-      padding: 1.5%;
-      border-radius: 5px;
-    }
-
-    &--sedan {
-      background-color: $turners-blue;
-      padding: 1.5%;
-      border-radius: 5px;
-    }
-
-    &--suv {
-      background-color: $turners-blue;
-      padding: 1.5%;
-      border-radius: 5px;
+    &--images {
+      display: flex;
+      align-items: center;
+      width: 40vw;
+      justify-content: space-evenly;
     }
   }
 }
