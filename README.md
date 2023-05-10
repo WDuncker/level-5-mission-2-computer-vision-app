@@ -78,7 +78,7 @@
 
 ## About The Project
 
-The aim of this mission was to become familiar with building a chatbot in Google Dialogflow and integrating this into a webpage. Secondary aims were also familiarising myself with Jira and identifying stakeholders. I also decided to challenge myself to learn more about SASS and implementing this within React.js
+The aim of this mission was to become familiar with integrating an ai model into a front end using my own api endpoints and calls. This project was created with an Azure computer vision ai which I trained to recognise different cars and select images from my catalogue which matched the image which is submitted from the front end.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,7 +86,7 @@ The aim of this mission was to become familiar with building a chatbot in Google
 
 - [![React][React.js]][React-url]
 - [![SASS][Sass.com]][Sass-url]
-- [![dialogflow][dialogflow.com]][dialogflow-url]
+- [![azure][azure.com][azure-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ The aim of this mission was to become familiar with building a chatbot in Google
 
 ## Getting Started
 
-To get started you will need to have Visual Studio Code installed on your device and a github account.
+To get started you will need to have Visual Studio Code installed on your device and a github account. You will also need a Microsoft Azure Account and a custom vision training resource.
 
 ### Prerequisites
 
@@ -119,6 +119,12 @@ To get started you will need to have Visual Studio Code installed on your device
   npm install --save @fortawesome/free-brands-svg-icons
   ```
 
+  - Axios
+
+  ```sh
+  npm install axios
+  ```
+
 ### Installation
 
 1. Clone the repo
@@ -138,8 +144,8 @@ To get started you will need to have Visual Studio Code installed on your device
 
 ## Roadmap
 
-- [ ] Conversational chatbot that will answer FAQs about online car auctions for Turners Cars
-- [ ] Collapsible sticky chat bubble
+- [ ] URL submission that sends an image url to a image recognition ai
+- [ ] Returns similar images from a catalogue held in the repo
 
 See the [open issues](https://github.com/WDuncker/Turners-bot/issues) for a full list of proposed features (and known issues).
 
@@ -224,6 +230,8 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 [Sass-url]: https://sass-lang.com/
 [dialogflow.com]: https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
 [dialogflow-url]: https://dialogflow.cloud.google.com/
+[azure.com]: https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[azure-url]: https://azure.microsoft.com/en-us
 
 ```
 
