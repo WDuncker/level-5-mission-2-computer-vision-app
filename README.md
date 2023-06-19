@@ -86,7 +86,7 @@ The aim of this mission was to become familiar with integrating an ai model into
 
 - [![React][React.js]][React-url]
 - [![SASS][Sass.com]][Sass-url]
-- [![dialogflow][dialogflow.com]][dialogflow-url]
+- [![microsoftazure][microsoftazure.com]][microsoftazure-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,8 +222,10 @@ Project Link: [https://github.com/WDuncker/level-5-mission-2-computer-vision-app
 [JQuery-url]: https://jquery.com
 [Sass.com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [Sass-url]: https://sass-lang.com/
-[dialogflow.com]: https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
-[dialogflow-url]: https://dialogflow.cloud.google.com/
+[microsoftazure.com]: https://img.shields.io/badge/microsoftazure-FF9800?style=for-the-badge&logo=microsoftazure&logoColor=white
+[microsoftazure-url]: https://microsoftazure.cloud.google.com/
+[microsoftazure.com]: https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[microsoftazure-url]: https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjw1rqkBhCTARIsAAHz7K0Oztjr7HcTok3C_8M4315aet2wmgx-aEOBANEQFupk8bMBaImfYTYaAs6gEALw_wcB_k_&OCID=AIDcmmp3m06wb2_SEM__k_Cj0KCQjw1rqkBhCTARIsAAHz7K0Oztjr7HcTok3C_8M4315aet2wmgx-aEOBANEQFupk8bMBaImfYTYaAs6gEALw_wcB_k_&gad=1&gclid=Cj0KCQjw1rqkBhCTARIsAAHz7K0Oztjr7HcTok3C_8M4315aet2wmgx-aEOBANEQFupk8bMBaImfYTYaAs6gEALw_wcB
 
 ```
 
