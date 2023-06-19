@@ -29,22 +29,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/WDuncker/Turners-bot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/WDuncker/level-5-mission-2-computer-vision-app">
+    <img src="readme-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Mission 2 - Working with AI</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/WDuncker/Turners-bot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/WDuncker/level-5-mission-2-computer-vision-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/WDuncker/Turners-bot">View Demo</a>
+    <a href="https://github.com/WDuncker/level-5-mission-2-computer-vision-app">View Demo</a>
     ·
-    <a href="https://github.com/WDuncker/Turners-bot/issues">Report Bug</a>
+    <a href="https://github.com/WDuncker/level-5-mission-2-computer-vision-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/WDuncker/Turners-bot/issues">Request Feature</a>
+    <a href="https://github.com/WDuncker/level-5-mission-2-computer-vision-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,7 +86,7 @@ The aim of this mission was to become familiar with integrating an ai model into
 
 - [![React][React.js]][React-url]
 - [![SASS][Sass.com]][Sass-url]
-- [![azure][azure.com]][azure-url]
+- [![dialogflow][dialogflow.com]][dialogflow-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ The aim of this mission was to become familiar with integrating an ai model into
 
 ## Getting Started
 
-To get started you will need to have Visual Studio Code installed on your device and a github account. You will also need a Microsoft Azure Account and a custom vision training resource.
+To get started you will need to have Visual Studio Code installed on your device and a github account.
 
 ### Prerequisites
 
@@ -119,18 +119,12 @@ To get started you will need to have Visual Studio Code installed on your device
   npm install --save @fortawesome/free-brands-svg-icons
   ```
 
-  - Axios
-
-  ```sh
-  npm install axios
-  ```
-
 ### Installation
 
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/WDuncker/Turners-bot.git
+   git clone https://github.com/WDuncker/level-5-mission-2-computer-vision-app.git
    ```
 
 2. Install NPM packages
@@ -147,7 +141,7 @@ To get started you will need to have Visual Studio Code installed on your device
 - [ ] URL submission that sends an image url to a image recognition ai
 - [ ] Returns similar images from a catalogue held in the repo
 
-See the [open issues](https://github.com/WDuncker/Turners-bot/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/WDuncker/level-5-mission-2-computer-vision-app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +176,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Wim Duncker - [@WimDuncker](https://twitter.com/WimDuncker) - wimduncker17@hotmail.co.nz
 
-Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDuncker/Turners-bot)
+Project Link: [https://github.com/WDuncker/level-5-mission-2-computer-vision-app](https://github.com/WDuncker/level-5-mission-2-computer-vision-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,16 +191,16 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/WDuncker/Turners-bot
-[contributors-url]: https://github.com/WDuncker/Turners-bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/WDuncker/Turners-bot
-[forks-url]: https://github.com/WDuncker/Turners-bot/network
-[stars-shield]: https://img.shields.io/github/stars/WDuncker/Turners-bot
-[stars-url]: https://github.com/WDuncker/Turners-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/WDuncker/Turners-bot
-[issues-url]: https://github.com/WDuncker/Turners-bot/issues
-[license-shield]: https://img.shields.io/github/license/WDuncker/Turners-bot
-[license-url]: https://github.com/WDuncker/Turners-bot/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/WDuncker/level-5-mission-2-computer-vision-app
+[contributors-url]: https://github.com/WDuncker/level-5-mission-2-computer-vision-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/WDuncker/level-5-mission-2-computer-vision-app
+[forks-url]: https://github.com/WDuncker/level-5-mission-2-computer-vision-app/network
+[stars-shield]: https://img.shields.io/github/stars/WDuncker/level-5-mission-2-computer-vision-app
+[stars-url]: https://github.com/WDuncker/level-5-mission-2-computer-vision-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/WDuncker/level-5-mission-2-computer-vision-app
+[issues-url]: https://github.com/WDuncker/level-5-mission-2-computer-vision-app/issues
+[license-shield]: https://img.shields.io/github/license/WDuncker/level-5-mission-2-computer-vision-app
+[license-url]: https://github.com/WDuncker/level-5-mission-2-computer-vision-app/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/wilhelmus-duncker-66b9b1272/
 [product-screenshot]: images/screenshot.png
@@ -230,8 +224,6 @@ Project Link: [https://github.com/WDuncker/Turners-bot](https://github.com/WDunc
 [Sass-url]: https://sass-lang.com/
 [dialogflow.com]: https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white
 [dialogflow-url]: https://dialogflow.cloud.google.com/
-[azure.com]: https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
-[azure-url]: https://azure.microsoft.com/en-us
 
 ```
 
